@@ -1,20 +1,14 @@
-pluginManagement {
-    repositories {
-        google()
-        mavenCentral()
-        gradlePluginPortal()
-        maven { url = uri("https://jitpack.io") }
+rootProject.name = "CloudstreamPlugins"
+
+// All new projects should get automatically included unless specified in the "disabled" variable.
+val disabled = listOf<String>()
+
+File(rootDir, ".").eachDir { dir ->
+    if (!disabled.contains(dir.name) && File(dir, "build.gradle.kts").exists()) {
+        include(dir.name)
     }
 }
 
-dependencyResolution {
-    repositories {
-        google()
-        mavenCentral()
-        maven { url = uri("https://jitpack.io") }
-    }
+fun File.eachDir(block: (File) -> Unit) {
+    listFiles()?.filter { it.isDirectory }?.forEach { block(it) }
 }
-
-include(":AsyaWatchPlugin")
-include(":HDFilmCehennemiPlugin")
-include(":OpenAnimePlugin")

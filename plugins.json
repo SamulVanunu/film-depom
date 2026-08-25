@@ -1,22 +1,22 @@
 [
   {
-    "url": "https://raw.githubusercontent.com/<SamuelVanunu>/film-depom/master/builds/AsyaWatch.cs3",
+    "url": "https://raw.githubusercontent.com/SamuelVanunu/film-depom/main/AsyaWatchPlugin/build/outputs/aar/AsyaWatchPlugin-release.aar",
     "status": 1,
     "version": 1,
     "apiVersion": 1,
     "name": "AsyaWatch",
     "internalName": "AsyaWatch",
     "authors": [
-      "<Kullanıcı_Adınız>"
+      "SamuelVanunu"
     ],
     "description": "AsyaWatch CloudStream sağlayıcısı",
-    "repositoryUrl": "https://github.com/<SamuelVanunuz>/film-depom",
+    "repositoryUrl": "https://github.com/SamuelVanunu/film-depom",
     "tvTypes": [
       "Movie",
       "TvSeries"
     ],
     "language": "tr",
-    "iconUrl": "https://raw.githubusercontent.com/<SamuelVanunu>/film-depom/master/icon.png",
+    "iconUrl": "https://raw.githubusercontent.com/SamuelVanunu/film-depom/main/AsyaWatchPlugin/src/main/res/icon.png",
     "isAdult": false
   }
 ]

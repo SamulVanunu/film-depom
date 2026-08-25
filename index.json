@@ -7,9 +7,9 @@
             "description": "AsyaWatch - Türkçe anime izleme sitesi",
             "version": 1,
             "url": "https://raw.githubusercontent.com/SamuelVanunu/film-depom/main/AsyaWatchPlugin/build/outputs/aar/AsyaWatchPlugin-release.aar",
-            "author": "SamuelVANUNU",
-            "authors": ["SamuelVANUNU"],
-            "icon": "https://raw.githubusercontent.com/SamuelVANUNU/film-depom/main/AsyaWatchPlugin/src/main/res/icon.png",
+            "author": "SamuelVanunu",
+            "authors": ["SamuelVanunu"],
+            "icon": "https://raw.githubusercontent.com/SamuelVanunu/film-depom/main/AsyaWatchPlugin/src/main/res/icon.png",
             "hasUpdate": false
         },
         {
@@ -17,8 +17,8 @@
             "description": "HDFilmCehennemi - Türkçe film izleme sitesi",
             "version": 1,
             "url": "https://raw.githubusercontent.com/SamuelVanunu/film-depom/main/HDFilmCehennemiPlugin/build/outputs/aar/HDFilmCehennemiPlugin-release.aar",
-            "author": "SamuelVANUNU",
-            "authors": ["SamuelVANUNU"],
+            "author": "SamuelVanunu",
+            "authors": ["SamuelVanunu"],
             "icon": "https://raw.githubusercontent.com/SamuelVanunu/film-depom/main/HDFilmCehennemiPlugin/src/main/res/icon.png",
             "hasUpdate": false
         },
@@ -27,8 +27,8 @@
             "description": "OpenAnime - Türkçe anime izleme sitesi",
             "version": 1,
             "url": "https://raw.githubusercontent.com/SamuelVanunu/film-depom/main/OpenAnimePlugin/build/outputs/aar/OpenAnimePlugin-release.aar",
-            "author": "SamuelVANUNU",
-            "authors": ["SamuelVANUNU"],
+            "author": "SamuelVanunu",
+            "authors": ["SamuelVanunu"],
             "icon": "https://raw.githubusercontent.com/SamuelVanunu/film-depom/main/OpenAnimePlugin/src/main/res/icon.png",
             "hasUpdate": false
         }

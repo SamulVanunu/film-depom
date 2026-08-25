@@ -1,0 +1,36 @@
+{
+    "repoName": "Samuelnyzor CloudStream Plugins",
+    "repoUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/master/index.json",
+    "plugins": [
+        {
+            "name": "AsyaWatch",
+            "description": "AsyaWatch - Türkçe anime izleme sitesi",
+            "version": 1,
+            "url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/master/AsyaWatchPlugin/build/outputs/aar/AsyaWatchPlugin-release.aar",
+            "author": "Samuelnyzor",
+            "authors": ["Samuelnyzor"],
+            "icon": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/master/AsyaWatchPlugin/src/main/res/icon.png",
+            "hasUpdate": false
+        },
+        {
+            "name": "HDFilmCehennemi",
+            "description": "HDFilmCehennemi - Türkçe film izleme sitesi",
+            "version": 1,
+            "url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/master/HDFilmCehennemiPlugin/build/outputs/aar/HDFilmCehennemiPlugin-release.aar",
+            "author": "Samuelnyzor",
+            "authors": ["Samuelnyzor"],
+            "icon": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/master/HDFilmCehennemiPlugin/src/main/res/icon.png",
+            "hasUpdate": false
+        },
+        {
+            "name": "OpenAnime",
+            "description": "OpenAnime - Türkçe anime izleme sitesi",
+            "version": 1,
+            "url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/master/OpenAnimePlugin/build/outputs/aar/OpenAnimePlugin-release.aar",
+            "author": "Samuelnyzor",
+            "authors": ["Samuelnyzor"],
+            "icon": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/master/OpenAnimePlugin/src/main/res/icon.png",
+            "hasUpdate": false
+        }
+    ]
+}

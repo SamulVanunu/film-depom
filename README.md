@@ -6,14 +6,14 @@ Bu proje, CloudStream için özel plugin'ler içerir:
 - **OpenAnime** - Anime izleme sitesi
 
 ## 👨‍💻 Geliştirici
-**SamuelVANUNU**
+**SamuelVanunu**
 
 ## 📦 Repository
 **film-depom**
 
 ## 🔗 Raw URL
 ```
-https://raw.githubusercontent.com/SamuelVANUNU/film-depom/main/index.json
+https://raw.githubusercontent.com/SamuelVanunu/film-depom/main/index.json
 ```
 
 ## 📋 Gereksinimler
@@ -28,7 +28,7 @@ https://raw.githubusercontent.com/SamuelVANUNU/film-depom/main/index.json
 2. **Settings** → **Extensions** → **Add repository**
 3. Şu URL'yi yapıştırın:
    ```
-   https://raw.githubusercontent.com/SamuelVANUNU/film-depom/main/index.json
+   https://raw.githubusercontent.com/SamuelVanunu/film-depom/main/index.json
    ```
 4. **Download** butonuna tıklayın
 5. Plugin'leri yükleyin
@@ -102,7 +102,7 @@ adb shell appops set --uid com.lagradost.cloudstream3.prerelease MANAGE_EXTERNAL
 ### "Repository not found" Hatası
 - URL'nin doğru olduğundan emin olun:
   ```
-  https://raw.githubusercontent.com/SamuelVANUNU/film-depom/main/index.json
+  https://raw.githubusercontent.com/SamuelVanunu/film-depom/main/index.json
   ```
 - `film-depom` repository'sinin **Public** olduğundan emin olun
 
@@ -120,4 +120,4 @@ adb shell appops set --uid com.lagradost.cloudstream3.prerelease MANAGE_EXTERNAL
 Bu proje公众 domain olarak yayınlanmaktadır.
 
 ---
-**SamuelVANUNU** tarafından yapılmıştır 🎬
+**SamuelVanunu** tarafından yapılmıştır 🎬

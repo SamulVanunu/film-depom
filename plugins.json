@@ -1,6 +1,6 @@
 [
   {
-    "url": "https://raw.githubusercontent.com/<Kullanıcı_Adınız>/film-depom/master/builds/AsyaWatch.cs3",
+    "url": "https://raw.githubusercontent.com/<SamuelVanunu>/film-depom/master/builds/AsyaWatch.cs3",
     "status": 1,
     "version": 1,
     "apiVersion": 1,
@@ -10,7 +10,7 @@
       "<Kullanıcı_Adınız>"
     ],
     "description": "AsyaWatch CloudStream sağlayıcısı",
-    "repositoryUrl": "https://github.com/<Kullanıcı_Adınız>/film-depom",
+    "repositoryUrl": "https://github.com/<SamuelVanunuz>/film-depom",
     "tvTypes": [
       "Movie",
       "TvSeries"

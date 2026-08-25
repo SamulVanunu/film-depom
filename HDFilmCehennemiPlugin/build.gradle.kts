@@ -4,7 +4,7 @@ cloudstreamPlugin {
     // Plugin description
     description.set("HDFilmCehennemi - Türkçe film izleme sitesi")
     // Plugin authors
-    authors.set(setOf("Samuelnyzor"))
+    authors.set(setOf("SamuelVANUNU"))
     // Plugin version (increment when making changes)
     version.set(1)
     // Main class path
